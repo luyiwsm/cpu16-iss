@@ -1,0 +1,27 @@
+{
+  "engine_mode": "lockstep",
+  "lockstep_verified": true,
+  "halted": true,
+  "instructions_executed": 713,
+  "micro_cycles": 5494,
+  "average_cpi": 7.705,
+  "registers": {
+    "ACC_hex": "0x13BA",
+    "ACC_unsigned": 5050,
+    "ACC_signed": 5050,
+    "MR_hex": "0x0000",
+    "seven_seg_hex": "0x000013BA",
+    "PC": "0x0C",
+    "IR": "0x07",
+    "MAR": "0x0C",
+    "MBR": "0x0700",
+    "BR": "0x0001",
+    "CAR": "0x00"
+  },
+  "flags": {
+    "Carry": 1,
+    "Zero": 0,
+    "Overflow": 0,
+    "Sign": 1
+  }
+}
