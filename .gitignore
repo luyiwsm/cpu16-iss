@@ -1,0 +1,13 @@
+cpu16_sim
+cpu16_sim_asan
+test_isa
+test_isa_asan
+test_coe
+test_coe_asan
+test_lockstep
+test_lockstep_asan
+build/
+*.o
+
+test_regression
+test_regression_asan
